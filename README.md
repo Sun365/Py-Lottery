@@ -1,8 +1,5 @@
-
-# Py-Lottery
-
 :smiley:
-
+# Py-Lottery
 
 ## Py-Lottery（中文）
 
